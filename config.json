@@ -1,0 +1,16 @@
+{
+  "default_provider": "gemini",
+  "gemini": {
+    "api_key": "AIzaSyBdAnqbNeF9hM8w-ubFA3zPpBWHU6ncKW0",
+    "model": "gemini-2.0-flash-exp"
+  },
+  "app_settings": {
+    "chainlit_port": 8001,
+    "debug": false,
+    "log_level": "INFO"
+  },
+  "git_integration": {
+    "access_token": "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",
+    "username": "iwas2636-collab"
+  }
+}
